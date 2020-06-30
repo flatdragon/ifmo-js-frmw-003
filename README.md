@@ -1,4 +1,6 @@
-# 002
+# Задание FRWM-003
+## Список TODO на Vue
+Итоговое приложение развернуто на [GitHub Pages](https://flatdragon.github.io/ifmo-js-frmw-003/).
 
 ## Project setup
 ```
